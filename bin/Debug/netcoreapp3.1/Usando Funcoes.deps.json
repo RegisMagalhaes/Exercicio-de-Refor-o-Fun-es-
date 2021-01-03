@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Usando Funcoes/1.0.0": {
+        "runtime": {
+          "Usando Funcoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usando Funcoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

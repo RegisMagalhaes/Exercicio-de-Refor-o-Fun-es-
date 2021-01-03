@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\bin\Debug\netcoreapp3.1\Usando Funcoes.exe
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\bin\Debug\netcoreapp3.1\Usando Funcoes.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\bin\Debug\netcoreapp3.1\Usando Funcoes.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\bin\Debug\netcoreapp3.1\Usando Funcoes.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\bin\Debug\netcoreapp3.1\Usando Funcoes.dll
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\bin\Debug\netcoreapp3.1\Usando Funcoes.pdb
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.dll
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.pdb
+C:\Users\Luana e Regis\Desktop\Regis\Exercicios\Usando Funcoes\obj\Debug\netcoreapp3.1\Usando Funcoes.genruntimeconfig.cache
